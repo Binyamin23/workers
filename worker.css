@@ -1,0 +1,19 @@
+.strip{
+    min-height: 350px;
+    background-image: url(image/pic2.webp);
+    background-size: cover;
+    background-position:center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer p{
+    max-width: 600px;
+    margin:0 auto;
+}
+
+.footer img{
+   width: 20px;
+   border-radius: 100%;
+   border: 0;
+}
